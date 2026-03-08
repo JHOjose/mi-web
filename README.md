@@ -11,7 +11,7 @@
 * `css/`: Carpeta de estilos.
 * `js/`: Lógica del proyecto.
 
-## 🚀 Cómo ejecutarlo
+## Cómo ejecutarlo
 Solo necesitas clonar el repositorio y abrir el archivo `index.html` en tu navegador favorito.
 
 
